@@ -1,0 +1,95 @@
+[33mcommit f439433e1e5eb71b004afc98725a09ef1e885ccb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 05:54:01 2021 +0100
+
+    debug to true
+
+[33mcommit 0cf2237a3f9c1140e95690a9f069db551c8d0980[m[33m ([m[1;31mheroku/main[m[33m)[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:33:19 2021 +0100
+
+    added download
+
+[33mcommit 36555dfe736eae9c6cb21dd438e99f490c8d3fcf[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:30:44 2021 +0100
+
+    chenged debug to false
+
+[33mcommit 321115e4fd3493b62330b46e48783cbae0aa29d1[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:28:43 2021 +0100
+
+    added download
+
+[33mcommit cc7d6dbaf50ccafeda49374c9a57eafdd3539731[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:27:06 2021 +0100
+
+    removed download
+
+[33mcommit b471aefa45570ef5558fa15577e7e48229bf508e[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:22:41 2021 +0100
+
+    added download
+
+[33mcommit 344f20072225ba1fb01f237b030d32250bbc607a[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:13:32 2021 +0100
+
+    added django.contrib.humanize
+
+[33mcommit 83cd974364610b48681b768ce314a7cb5215396a[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:11:41 2021 +0100
+
+    main
+
+[33mcommit 380bc4d5a2074fddc70725862f22360d09546726[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:09:56 2021 +0100
+
+    main
+
+[33mcommit d303e27eaf5226bf1bec2757da7b2d65f5f4d822[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:07:45 2021 +0100
+
+    main
+
+[33mcommit 93280d004068eaa886c44e9be98e45a018502280[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 03:05:22 2021 +0100
+
+    main
+
+[33mcommit cb506decc3db6e8ce20824fa82c1cf6af60304bd[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 02:58:30 2021 +0100
+
+    main
+
+[33mcommit 04ec46fe1d1e3fbeb4ab36c95655d3c43f90a38c[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 02:48:44 2021 +0100
+
+    main
+
+[33mcommit a0333201d49ca70ede053d9d418c942cc0729fc3[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 02:46:49 2021 +0100
+
+    main
+
+[33mcommit 1e7035d582761d827672dc00ced650c9a71a167c[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 02:37:21 2021 +0100
+
+    main
+
+[33mcommit e040eebeaa4587b8df6bb1e95d461b544e889227[m
+Author: noblesalt <izuchukwue2@gmail.com>
+Date:   Sat Jan 2 02:30:41 2021 +0100
+
+    main
