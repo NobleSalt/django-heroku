@@ -17,7 +17,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['https://nameless-bayou-96014.herokuapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -27,6 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.humanize',
 
     # apps
     'apps.Upload',
