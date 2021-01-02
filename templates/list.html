@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% load humanize %}
+
+{% block title %}
+<title>List</title>
+{% endblock %}
+
+
+{% block body %}
+<a href="{% url 'upload:home' %}">Home</a>
+<ul>
+    {% for file in files %}
+    <li>
+    owner: {{file.owner.username|title}}
+    <br/>
+    name: {{file.main_file.name|title}}
+    <br/>
+    size: {{file.main_file.size|filesizeformat}}
+    <br/>
+    date uploaded: {{file.date_uploaded|naturaltime}}
+    <br/>
+    </li>
+    <br/>
+        {% empty %}
+        Noting here
+    {% endfor %}
+</ul>
+{% endblock body %}
