@@ -15,7 +15,7 @@ SECRET_KEY = 'r47o7$bucka5z023^!$c@6zei6_lsk!vbe-=7rgzyldn&e5jw$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://nameless-bayou-96014.herokuapp.com']
 
 
 # Application definition
